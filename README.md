@@ -161,7 +161,7 @@ big-data-platform/
 ## 3️⃣ Apache NiFi — Data Ingestion & Flow Management
 
 <p align="center">
-  <img src="docs/images/nifi.png" width="850">
+  <img src="https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/streaming.jpeg" width="850">
 </p>
 
 **Apache NiFi manages the movement, ingestion, routing, and transformation of data from different sources.** It provides a visual data-flow environment for collecting and preparing data before it enters the streaming platform.
@@ -171,7 +171,7 @@ big-data-platform/
 ## 4️⃣ Apache Kafka — Real-Time Data Streaming
 
 <p align="center">
-  <img src="docs/images/kafka.png" width="850">
+  <img src="https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/kubernet.jpeg" width="850">
 </p>
 
 **Apache Kafka provides the real-time event-streaming layer of the platform.** Data produced by NiFi and other applications is published to Kafka topics, where it can be consumed reliably by downstream applications and processing services.
@@ -181,7 +181,7 @@ big-data-platform/
 ## 5️⃣ Prometheus & Grafana — Monitoring & Visualization
 
 <p align="center">
-  <img src="docs/images/grafana.png" width="850">
+  <img src="https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/notify.jpeg" width="850">
 </p>
 
 **Prometheus and Grafana provide observability across the platform.** Prometheus collects infrastructure and application metrics, while Grafana transforms those metrics into interactive dashboards for monitoring system performance, health, and operational trends.

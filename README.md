@@ -142,9 +142,7 @@ big-data-platform/
 
 ## 1️⃣ Docker — Environment & Container Setup
 
-<p align="center">
-  <img src="docs/images/docker.png" width="850">
-</p>
+![Data Engineering](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg)
 
 **Docker provides the foundation of the platform by creating isolated and reproducible containers for each service.** It establishes the runtime environment required to deploy and connect the Big Data components consistently across development and production environments.
 
@@ -153,7 +151,7 @@ big-data-platform/
 ## 2️⃣ Ansible — Infrastructure Provisioning & Automation
 
 <p align="center">
-  <img src="docs/images/ansible.png" width="850">
+  <img src="https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering_arctechure.jpeg" width="850">
 </p>
 
 **Ansible automates the provisioning, configuration, and deployment of the platform infrastructure.** It reduces manual configuration and ensures that servers, services, networks, and application environments are deployed consistently.
@@ -210,7 +208,7 @@ Prometheus + Grafana
 
 **Infrastructure → Automation → Data Ingestion → Data Streaming → Monitoring**
 
-![Data Engineering](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg)
+
 # 🚀 Quick Start
 
 ## 1️⃣ Clone the repository

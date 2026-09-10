@@ -139,6 +139,77 @@ big-data-platform/
 
 ---
 # BIG DATA PLATFORM ENGINEERING
+
+## 1️⃣ Docker — Environment & Container Setup
+
+<p align="center">
+  <img src="docs/images/docker.png" width="850">
+</p>
+
+**Docker provides the foundation of the platform by creating isolated and reproducible containers for each service.** It establishes the runtime environment required to deploy and connect the Big Data components consistently across development and production environments.
+
+---
+
+## 2️⃣ Ansible — Infrastructure Provisioning & Automation
+
+<p align="center">
+  <img src="docs/images/ansible.png" width="850">
+</p>
+
+**Ansible automates the provisioning, configuration, and deployment of the platform infrastructure.** It reduces manual configuration and ensures that servers, services, networks, and application environments are deployed consistently.
+
+---
+
+## 3️⃣ Apache NiFi — Data Ingestion & Flow Management
+
+<p align="center">
+  <img src="docs/images/nifi.png" width="850">
+</p>
+
+**Apache NiFi manages the movement, ingestion, routing, and transformation of data from different sources.** It provides a visual data-flow environment for collecting and preparing data before it enters the streaming platform.
+
+---
+
+## 4️⃣ Apache Kafka — Real-Time Data Streaming
+
+<p align="center">
+  <img src="docs/images/kafka.png" width="850">
+</p>
+
+**Apache Kafka provides the real-time event-streaming layer of the platform.** Data produced by NiFi and other applications is published to Kafka topics, where it can be consumed reliably by downstream applications and processing services.
+
+---
+
+## 5️⃣ Prometheus & Grafana — Monitoring & Visualization
+
+<p align="center">
+  <img src="docs/images/grafana.png" width="850">
+</p>
+
+**Prometheus and Grafana provide observability across the platform.** Prometheus collects infrastructure and application metrics, while Grafana transforms those metrics into interactive dashboards for monitoring system performance, health, and operational trends.
+
+---
+
+## 🔄 End-to-End Platform Flow
+
+```text
+Docker
+  │
+  ▼
+Ansible
+  │
+  ▼
+Apache NiFi
+  │
+  ▼
+Apache Kafka
+  │
+  ▼
+Prometheus + Grafana
+```
+
+**Infrastructure → Automation → Data Ingestion → Data Streaming → Monitoring**
+
 ![Data Engineering](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg)
 # 🚀 Quick Start
 

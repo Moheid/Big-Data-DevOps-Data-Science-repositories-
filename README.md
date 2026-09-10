@@ -139,7 +139,7 @@ big-data-platform/
 
 ---
 # BIG DATA PLATFORM ENGINEERING
-![Data Engineering]([data_engineering.jgeg](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg))
+![Data Engineering](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg)
 # 🚀 Quick Start
 
 ## 1️⃣ Clone the repository

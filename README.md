@@ -138,7 +138,8 @@ big-data-platform/
 ```
 
 ---
-
+# BIG DATA PLATFORM ENGINEERING
+![Data Engineering](data_engineering.jgeg)
 # 🚀 Quick Start
 
 ## 1️⃣ Clone the repository

@@ -142,7 +142,9 @@ big-data-platform/
 
 ## 1️⃣ Docker — Environment & Container Setup
 
-![Data Engineering](https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg)
+<p align="center">
+  <img src="https://github.com/Moheid/Big-Data-DevOps-Data-Science-repositories-/blob/main/data_engineering.jpeg" width="850">
+</p>
 
 **Docker provides the foundation of the platform by creating isolated and reproducible containers for each service.** It establishes the runtime environment required to deploy and connect the Big Data components consistently across development and production environments.
 
